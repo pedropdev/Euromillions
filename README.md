@@ -1,3 +1,3 @@
 # Euromillions
 
-Euromillions project made through java with focus on OOP.
+Euromillions project that simulates a lottery game with focus on OOP.
